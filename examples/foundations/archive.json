@@ -1,0 +1,10 @@
+{
+  "id": "field-foundations",
+  "subject": "基础研习 · 演示档案",
+  "code": "FIELD",
+  "chapters": [
+    {"name": "数学语言", "number": 1, "shortName": "数学", "sections": ["向量与矩阵", "微积分"]},
+    {"name": "程序设计", "number": 2, "shortName": "程序", "sections": ["复杂度与算法"]},
+    {"name": "英语", "number": 3, "shortName": "英语", "sections": ["词汇与表达"]}
+  ]
+}

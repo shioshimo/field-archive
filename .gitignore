@@ -1,0 +1,25 @@
+# Personal archives and learning records never belong in the public repository.
+/config.local.json
+/data/
+/.ui-test-data/
+/.demo-data/
+/.release-check/
+/local-backup/
+/audit/
+/preview.png
+/server.log
+/server-error.log
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.sqlite3-*
+*.db
+*.log
+.venv/
+venv/
+.env
+.env.*
+.DS_Store
+Thumbs.db
+/private/
+/archives/

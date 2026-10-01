@@ -1,0 +1,15 @@
+{
+  "id": "demo-math-dot-product",
+  "number": 1,
+  "type": "单项选择题",
+  "title": "点积 · 两个向量的相遇",
+  "stem": "给定向量 $\\mathbf{a}=(1,2)$ 与 $\\mathbf{b}=(3,4)$，它们的点积 $\\mathbf{a}\\cdot\\mathbf{b}$ 是多少？\n\n先试着写出运算过程，再展开答案。",
+  "options": [
+    {"label": "A", "markdown": "$7$"},
+    {"label": "B", "markdown": "$10$"},
+    {"label": "C", "markdown": "$11$"},
+    {"label": "D", "markdown": "$14$"}
+  ],
+  "answer": "**C · $11$**",
+  "explanation": "把对应位置的数相乘，再相加：\n\n$$\\mathbf{a}\\cdot\\mathbf{b}=1\\times3+2\\times4=11.$$\n\n点积的结果是一个数。它与逐项相乘得到的新向量不是同一个运算。"
+}

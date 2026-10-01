@@ -1,0 +1,16 @@
+{
+  "id": "demo-code-binary-search",
+  "number": 1,
+  "type": "单项选择题",
+  "title": "二分查找 · 每次减半",
+  "stem": "在有序数组中进行二分查找。随着数组长度 $n$ 增大，最坏情况下的比较次数通常属于哪个数量级？",
+  "options": [
+    {"label": "A", "markdown": "$O(1)$"},
+    {"label": "B", "markdown": "$O(\\log n)$"},
+    {"label": "C", "markdown": "$O(n)$"},
+    {"label": "D", "markdown": "$O(n\\log n)$"},
+    {"label": "E", "markdown": "$O(n^2)$"}
+  ],
+  "answer": "**B**",
+  "explanation": "每次比较后，候选区间大约减半。减半 $k$ 次后剩下约 $n/2^k$ 个位置，因此需要的次数随 $\\log_2 n$ 增长。"
+}

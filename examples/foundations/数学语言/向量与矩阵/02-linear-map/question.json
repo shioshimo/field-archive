@@ -1,0 +1,11 @@
+{
+  "id": "demo-math-linear-map",
+  "number": 2,
+  "type": "图示问答题",
+  "title": "线性变换 · 看见矩阵的作用",
+  "stem": "矩阵 $A=\\begin{bmatrix}2&0\\\\0&1\\end{bmatrix}$ 作用于向量 $\\mathbf{v}=(1,1)$。求 $A\\mathbf{v}$，并用一句话描述这次变换。\n\n![平面上原向量与变换后向量](vectors.png)",
+  "options": [],
+  "answer": "$A\\mathbf{v}=(2,1)$。沿水平方向伸长到两倍，竖直方向不变。",
+  "explanation": "$$\\begin{bmatrix}2&0\\\\0&1\\end{bmatrix}\\begin{bmatrix}1\\\\1\\end{bmatrix}=\\begin{bmatrix}2\\\\1\\end{bmatrix}$$\n\n可以把矩阵的两列看成：两个坐标轴的单位向量变换后去了哪里。",
+  "reference": "本页图示与题目为项目原创演示内容。点击配图可查看完整尺寸。"
+}

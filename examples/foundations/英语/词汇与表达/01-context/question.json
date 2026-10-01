@@ -1,0 +1,9 @@
+{
+  "id": "demo-english-context",
+  "number": 1,
+  "type": "填空题",
+  "title": "上下文 · 给词义一个落点",
+  "stem": "用 increase 的适当形式填空：\n\n> The number of recorded attempts has ______ steadily over the past week.\n\n请同时写出你判断词形的理由。",
+  "answer": "**increased**",
+  "explanation": "这里是现在完成时：**has + 过去分词**。increase 是规则动词，过去分词为 increased。\n\n整句话的意思是：过去一周，记录下来的尝试次数一直在稳步增加。"
+}
