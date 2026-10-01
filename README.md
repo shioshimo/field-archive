@@ -4,9 +4,12 @@
 
 一个放在本地的题目与学习记录空间。你来思考，AI 帮你讲解和整理，这里留住每一次尝试。
 
-<img width="1043" height="816" alt="image" src="https://github.com/user-attachments/assets/d4d06461-1b93-481f-9884-c5cc38d8da24" />
-<img width="920" height="704" alt="image" src="https://github.com/user-attachments/assets/1179dafc-34c0-4531-ba89-d8abb10bbc88" />
-<img width="920" height="705" alt="image" src="https://github.com/user-attachments/assets/e260e029-5af0-49a6-8d3e-f330e188c6b9" />
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/d4d06461-1b93-481f-9884-c5cc38d8da24"><img src="https://github.com/user-attachments/assets/d4d06461-1b93-481f-9884-c5cc38d8da24" width="31%" alt="界面预览 1" /></a>
+  <a href="https://github.com/user-attachments/assets/1179dafc-34c0-4531-ba89-d8abb10bbc88"><img src="https://github.com/user-attachments/assets/1179dafc-34c0-4531-ba89-d8abb10bbc88" width="31%" alt="界面预览 2" /></a>
+  <a href="https://github.com/user-attachments/assets/e260e029-5af0-49a6-8d3e-f330e188c6b9"><img src="https://github.com/user-attachments/assets/e260e029-5af0-49a6-8d3e-f330e188c6b9" width="31%" alt="界面预览 3" /></a>
+</p>
+<p align="center"><sub>点击截图查看原图</sub></p>
 
 
 ## 这是什么
