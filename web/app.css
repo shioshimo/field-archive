@@ -21,3 +21,7 @@
 .sound-volume input::-moz-range-track{height:3px;border-radius:0;background:#d3cdc5}
 .sound-volume input::-moz-range-progress{height:3px;border-radius:0;background:#9c8a6b}
 .sound-volume input::-moz-range-thumb{width:6px;height:16px;border:1px solid #8d7b5d;border-radius:0;background:#a18d6a;box-shadow:0 0 0 3px var(--paper);cursor:ew-resize}
+
+#soundViewer .sound-volume input:focus-visible{outline:none;border:0}
+.sound-volume input:focus-visible::-webkit-slider-thumb{background:#746044;border-color:#746044}
+.sound-volume input:focus-visible::-moz-range-thumb{background:#746044;border-color:#746044}
