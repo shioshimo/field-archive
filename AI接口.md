@@ -1,4 +1,4 @@
-# AI 接入 / LLM Field Archive
+# AI 接入 / Field Archive
 
 这里保存题目与每一次学习记录。教学由你负责；请通过 CLI 或 API 追加记录，不要直接改网页代码或 SQLite。
 

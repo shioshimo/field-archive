@@ -224,7 +224,7 @@ def main():
     archive=Archive(data,source,settings)
     server=ThreadingHTTPServer(('127.0.0.1',port),Handler)
     server.archive=archive
-    print(f'LLM FIELD ARCHIVE http://127.0.0.1:{port}/ | {archive.catalog["total"]} questions | {len(archive.catalog["issues"])} import issues',flush=True)
+    print(f'FIELD ARCHIVE http://127.0.0.1:{port}/ | {archive.catalog["total"]} questions | {len(archive.catalog["issues"])} import issues',flush=True)
     archive.backup_daily()
     try:server.serve_forever()
     except KeyboardInterrupt:pass

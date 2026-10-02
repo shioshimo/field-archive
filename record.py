@@ -38,7 +38,7 @@ def submit_record(base,question,state,note,image_paths=(),selected_option=None,r
     return request(base,'/api/records',payload)
 
 def main():
-    parser=argparse.ArgumentParser(description='给 LLM Field Archive 添加一次独立的做题记录')
+    parser=argparse.ArgumentParser(description='给 Field Archive 添加一次独立的做题记录')
     parser.add_argument('--base',default='http://127.0.0.1:8770')
     parser.add_argument('--list',action='store_true',help='列出题号、ID、源文件路径')
     parser.add_argument('--section',help='例如 2.1')

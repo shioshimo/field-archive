@@ -1,6 +1,6 @@
-# LLM Field Archive
+# Field Archive
 
-**研习档案 · LLM-assisted study terminal**
+**研习档案 · Personal study terminal**
 
 一个放在本地的题目与学习记录空间。你来思考，AI 帮你讲解和整理，这里留住每一次尝试。
 
@@ -33,8 +33,8 @@
 需要 **Python 3.10 或更新版本**。前端资源随项目提供，没有 Node.js 构建步骤，也不依赖在线 CDN。
 
 ```sh
-git clone https://github.com/shioshimo/llm-field-archive.git
-cd llm-field-archive
+git clone https://github.com/shioshimo/field-archive.git
+cd field-archive
 python -m venv .venv
 ```
 
